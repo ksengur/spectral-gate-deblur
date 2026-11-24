@@ -1,7 +1,8 @@
 # Spectral Failure Modes and Consistency Gating for Non-Blind Deblurring Under Kernel Shift
 
 Code for the paper *Spectral Failure Modes and Consistency Gating for Non-Blind Deblurring Under Kernel Shift*
-(submitted to IEEE Transactions on Image Processing).
+by Abdulkadir Sengur, Massimo Salvi, Yan Tian and Rajendra Acharya (submitted to IEEE Transactions on Image
+Processing).
 
 The repository contains the factorial study of kernel-injection routes in an unrolled half-quadratic-splitting
 network, the two-sided consistency gate (re-blurring residual ρ and near-null-space score ν with a Wiener fallback),
@@ -90,7 +91,7 @@ and are not included.
 ```bibtex
 @article{spectralgate2026,
   title   = {Spectral Failure Modes and Consistency Gating for Non-Blind Deblurring Under Kernel Shift},
-  author  = {TODO},
+  author  = {Sengur, Abdulkadir and Salvi, Massimo and Tian, Yan and Acharya, Rajendra},
   journal = {IEEE Transactions on Image Processing},
   note    = {submitted},
   year    = {2026}
