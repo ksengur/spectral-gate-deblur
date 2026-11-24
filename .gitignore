@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+data/
+third_party/
+pretrained/
+cache/
+outputs/
+runs/
+runs_cond/
+*.pt
+*.pth
+*.zip
+paper/tables/
+reports/paper_numbers.md
